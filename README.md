@@ -19,6 +19,8 @@ an expected value of nearly $13 billion by 2028.
 Like any decisions made by humans, the process of
 selecting players for your Fantasy Premier League (FPL)
 team is susceptible to various inherent biases.
+
+#### Team loyalty
 One of the most prevalent biases is team loyalty,
 wherein individuals who invest significant time in
 managing their FPL team often exhibit a preference for
@@ -32,12 +34,16 @@ Arsenal players, even if they may not be the most
 optimal choices, while Tottenham players (Arsenal's
 biggest rival) are rarely considered. This trend seems to
 emerge every year, albeit unintentionally.
+
+#### Recency bias
 Recency bias also plays a role in influencing team
 selections. If one has recently witnessed a team or
 player perform exceptionally well or poorly, there is a
 tendency to overemphasize these recent performances
 when making decisions for the upcoming weeks
 selections.
+
+#### Selected percentage
 Another powerful form of bias, which can be both
 helpful and misleading, is the players selected
 percentage metric. This metric, displayed alongside
@@ -50,6 +56,8 @@ reliable indicator. Nonetheless, many FPL players tend
 to select certain players simply because others have
 chosen them, without considering other relevant
 factors.
+
+#### Project objective
 The objective of this project is to mitigate these biases
 in all their forms. By developing algorithms and
 selection processes solely based on historical data, my
