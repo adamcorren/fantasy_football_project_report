@@ -57,7 +57,7 @@ to select certain players simply because others have
 chosen them, without considering other relevant
 factors.
 
-#### Project objective
+# Project objective
 The objective of this project is to mitigate these biases
 in all their forms. By developing algorithms and
 selection processes solely based on historical data, my
