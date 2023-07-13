@@ -66,7 +66,7 @@ data based decision-making in FPL team selection.
 
 ## Other Fantasy Football repositories
 
-[FBREF Football Player Data Scraper](https://github.com/adamcorren/fbref_football_player_data_scraper)
+Web Scraper: [FBREF Football Player Data Scraper](https://github.com/adamcorren/fbref_football_player_data_scraper)
 
 Step 1: [Wrangling data](https://github.com/adamcorren/fantasy_football_data_wrangling_pandas)
 
