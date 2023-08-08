@@ -9,10 +9,7 @@ earn points based on the actual performance of their
 real-world counterparts. Fantasy sports players 
 compete against each other in private and public 
 leagues, and the player with the highest overall score at 
-the end of an annual season wins. The fantasy sports 
-industry is experiencing rapid growth, with a projected 
-Compound Annual Growth Rate (CAGR) of 12-13% and 
-an expected value of nearly $13 billion by 2028
+the end of an annual season wins.
 
 ### How Does Human Bias Impact FPL?
 
