@@ -3,10 +3,10 @@ FPL project overview and report. Download PDF for best quality.
 
 ### What are Fantasy Sports?
 
-Fantasy sports are online games where participants
-create teams of real-life sports players. These players 
-earn points based on the actual performance of their 
-real-world counterparts. Fantasy sports players 
+Fantasy sports are online games where participants 
+create virtual teams of real-life sports players. These 
+players earn points based on the actual performance of 
+their real-world counterparts. Fantasy sports players 
 compete against each other in private and public 
 leagues, and the player with the highest overall score at 
 the end of an annual season wins.
@@ -15,7 +15,7 @@ the end of an annual season wins.
 
 Like any decisions made by humans, the process of 
 selecting players for your Fantasy Premier League (FPL) 
-team is susceptible to various inherent biases
+team is susceptible to various inherent biases. 
 
 #### Team loyalty
 One of the most prevalent biases is team loyalty, 
